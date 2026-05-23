@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yohan Tom Roni
 
-### Aspiring Data Scientist | Tech Enthusiast
+### Aspiring Data Scientist 
 
 ---
 
